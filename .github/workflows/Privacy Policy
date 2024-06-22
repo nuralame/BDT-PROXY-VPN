@@ -1,36 +1,26 @@
-# This is a basic workflow to help you get started with Actions
+INET VPN Privacy Policy
+Effective Date: December 21, 2023
 
-name: CI
+Introduction
+INET VPN is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our INET VPN app for Android ("App").
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+Information We Collect
+We do not collect or retain any personal data that can identify you, such as your name, email address, IP address, or browsing history.
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+Third-Party Advertising
+Our App uses AdMob to display advertisements. AdMob may collect certain information about your device and your activity within the App, such as your device ID, advertising ID, IP address, and location. AdMob may use this information to serve you personalized ads.
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+Your Choices
+You can opt out of personalized advertising by adjusting your device settings.
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+Data Security
+We take security measures to protect your information from unauthorized access and use.
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated Privacy Policy on this page.
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at chingleejhoncarl123@gmail.com.
+
+Additional Information for Android Users
+INET VPN complies with Google Play's Developer Program Policies regarding privacy and data security.
